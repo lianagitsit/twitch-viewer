@@ -1,0 +1,8 @@
+table {border-collapse: collapse;}
+
+#offline {width: 500px;}
+
+td {padding: 5px;}
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
